@@ -37,7 +37,11 @@ correlazione con i risultati della valutazione euristica).
 Le cartelle `valutazione-euristica/`, `riprogettazione/`, `esperimento-utenti/` e `analisi-dati/`
 contengono i sorgenti dei singoli paragrafi; `figures/` e `Screenshots/` le immagini.
 
-Il PDF compilato è disponibile in [`out/main.pdf`](out/main.pdf).
+## Materiale
+
+- **Relazione completa** — [`out/main.pdf`](out/main.pdf), il documento compilato
+- **Presentazione** — [`BrainBox_-_Presentazione_HCI.pptx`](BrainBox_-_Presentazione_HCI.pptx),
+  le slide usate per l'esposizione del progetto
 
 ## Compilazione
 
